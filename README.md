@@ -1,3 +1,24 @@
+# Project Description
+Prepair is a reverse home renovation web application built using ReactJS for the frontend, ExpressJS for the backend, and MySQL for the database.
+
+Unlike traditional platforms, Prepair allows homeowners (clients) to post job requests for renovation, repair, or remodeling work. Fixers (contractors or service providers) can then bid on these jobs, offering their best price and proposal. Homeowners can communicate with fixers through the platform and choose the bid that best suits their needs and budget.
+
+# Tech Stack
+Frontend: ReactJS
+Backend: ExpressJS
+Database: MySQL 
+
+# Usage
+To run Prepair locally:
+
+Clone both the frontend and backend repositories. (Both repositorieds can be found in my github)
+
+Follow readme steps to setup both front and backend
+
+Ensure you have MySQL installed and properly configured.
+
+Set up the necessary environment variables
+
 # Project Setup Guide
 
 This guide outlines the steps to install, configure, and run the backend server for the **Prepair** web application.
